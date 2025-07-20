@@ -5,6 +5,8 @@ A modern, interactive, and visually stunning data analytics dashboard built usin
 > 🚗 This project showcases Electric Vehicle (EV) sales across Indian states, predicts future sales, and provides deep insights using visual storytelling and ML modeling.
 
 ---
+## preview :- https://electric-vehicle-sales-by-state-in-india.streamlit.app/
+---
 
 ## 📊 Features
 
