@@ -1,4 +1,3 @@
-# Electric-Vehicle-Sales-by-State-in-India
 # ⚡ Electric Vehicle Sales Dashboard - India
 
 A modern, interactive, and visually stunning data analytics dashboard built using **Python**, **Streamlit**, **Pandas**, **Machine Learning**, and **Seaborn/Matplotlib**.
